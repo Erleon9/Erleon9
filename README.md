@@ -20,7 +20,7 @@
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867c0?style=flat)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erleon9&show_icons=true)
 
 ## 📚 Featured Project
 - **Agroeasy**: Agricultural software for fruit packing and shipping. [Visit the site](https://agroeasy.tech)
