@@ -1,4 +1,5 @@
-# Hello, I'm Eros León 👋
+# Hello I'm Eros León 👋
+![My GitHub Stats](https://media.giphy.com/media/DdkT6ntzNu5q3BUq6k/giphy.gif)
 
 👨‍💻 Founder of an emerging software development company with around a year and a half in the making.  
 🎓 Studying Software Engineering at UES Hermosillo, still in progress.  
@@ -31,11 +32,10 @@
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erleon9&show_icons=true)
 
+
 ## 📚 Featured Project
 - **Agroeasy**: Agricultural software for fruit packing and shipping. [Visit the site](https://agroeasy.tech)
 
-## 🎥 Fun Corner
-![Fun GIF](https://media.giphy.com/media/B22qoKzmGKsOfgJQj7/giphy.gif)
 
 ## 📫 How to Reach Me
 - [Email](mailto:erosleon9@gmail.com)
