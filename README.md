@@ -1,5 +1,5 @@
 # Hello I'm Eros León 👋
-![My GitHub Stats](https://media.giphy.com/media/DdkT6ntzNu5q3BUq6k/giphy.gif)
+![My GitHub Stats](https://media.giphy.com/media/yrhhmre5fN2PtRujfo/giphy.gif)
 
 👨‍💻 Founder of an emerging software development company with around a year and a half in the making.  
 🎓 Studying Software Engineering at UES Hermosillo, still in progress.  
