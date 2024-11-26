@@ -2,8 +2,8 @@
 ![My GitHub Stats](https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif)
 
 👨‍💻 Founder of an emerging software development company with around a year and a half in the making.  
-🎓 Studying Software Engineering at UES Hermosillo, still in progress.  
-🔥 2 years of development experience.  
+🎓 Studying Software Engineering at UVEG, still in progress.  
+🔥 3 years of development experience.  
 🤝 Experience in managing teams and client interactions.  
 🌱 Passionate about learning, creative, and responsible.
 
