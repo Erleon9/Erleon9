@@ -25,7 +25,11 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
 ![Quasar](https://img.shields.io/badge/-Quasar-1976d2?style=flat&logo=quasar&logoColor=white) 
-![Vuetify](https://img.shields.io/badge/-Vuetify-1867c0?style=flat&logo=vuetify&logoColor=white) 
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867c0?style=flat&logo=vuetify&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Material-UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=mui&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erleon9&show_icons=true)
