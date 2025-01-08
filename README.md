@@ -8,9 +8,7 @@
 🌱 Passionate about learning, creative, and responsible.
 
 ## 👨‍💻 Skills
-- Front-end Development: Vue, Quasar, Vuetify
-- State Management: Vuex, Pinia
-- Query Libraries: VueQuery
+- Front-end Development: React and Material UI
 - Styling: CSS, Sass, Bootstrap
 - Team Management and Leadership
 - Client Interaction and Requirements Gathering
@@ -34,7 +32,7 @@
 
 
 ## 📚 Featured Project
-- **Agroeasy**: Agricultural software for fruit packing and shipping. [Visit the site](https://agroeasy.tech)
+- **Agroeasy**: Agricultural software for fruit packing and shipping. [Visit the site](https://www.agroeasy.com.mx/inicio)
 
 
 ## 📫 How to Reach Me
